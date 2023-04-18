@@ -1,6 +1,4 @@
-![100devs logo](./assets/100devs.png)
-
-# 100Devs Course Tracker
+# Course Tracker
 
 ## Database Setup
 
